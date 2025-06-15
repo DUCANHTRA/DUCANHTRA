@@ -9,17 +9,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake.svg
+      - name: Generate contribution snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: DUCANHTRA
-          outputs: |
-            ./github-contribution-grid-snake.svg
 
-      - name: Push to output branch
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
