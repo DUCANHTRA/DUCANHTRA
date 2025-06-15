@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineer | Based in Australia 🇦🇺  
+- 🎓 Computer Science Student at Swinburne University | Based in Australia 🇦🇺 | Major in Software Engineer 
 - 🚀 Building full-stack systems and real-world simulations  
 - 🧠 Focused on logistics platforms, 3D graph visualization, and AI  
 - 💬 Ask me about **NestJS**, **Angular**, **.NET**, **Node.js**, **Vue.js**  
@@ -57,14 +57,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DUCANHTRA&theme=github-compact" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DUCANHTRA/DUCANHTRA/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
