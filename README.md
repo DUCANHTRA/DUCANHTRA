@@ -64,7 +64,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/DUCANHTRA/DUCANHTRA/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/DUCANHTRA/DUCANHTRA/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20Tran-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/duc-anh-tran-709b24335/)
-[![Gmail](https://img.shields.io/badge/Gmail-mark.tran@email.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:trand4832@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-trand4832@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:trand4832@gmail.com)
 
 ---
 
