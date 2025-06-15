@@ -59,6 +59,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DUCANHTRA&theme=github-compact" />
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DUCANHTRA/DUCANHTRA/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 ## 📫 Let's Connect
