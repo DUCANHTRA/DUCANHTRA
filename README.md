@@ -64,7 +64,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/DUCANHTRA/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github.com/DUCANHTRA/DUCANHTRA/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
