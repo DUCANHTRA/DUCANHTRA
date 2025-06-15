@@ -48,7 +48,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarkTran&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=MarkTran&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=DUCANHTRA&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ## 🌱 Recent Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MarkTran&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DUCANHTRA&theme=github-compact" />
 </p>
 
 ---
@@ -64,7 +64,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/MarkTran/MarkTran/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/DUCANHTRA/DUCANHTRA/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
