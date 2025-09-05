@@ -10,7 +10,7 @@
 - 🎓 Computer Science Student at Swinburne University | Based in Australia 🇦🇺 | Major in Software Engineer 
 - 🚀 Building full-stack systems and real-world simulations  
 - 🧠 Focused on logistics platforms, 3D graph visualization, and AI  
-- 💬 Ask me about **NestJS**, **Angular**, **.NET**, **Node.js**, **Vue.js**  
+- 💬 Ask me about **Node.js**, **Vue.js**, **React**  
 - 📖 Currently exploring: **ASP.NET MVC**, **Docker**, and **Flutter**
 
 ---
@@ -18,14 +18,9 @@
 ## 🧰 Tech Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ---
