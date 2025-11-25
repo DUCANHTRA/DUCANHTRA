@@ -64,4 +64,3 @@
 
 ---
 
-<p align="center">Made with ❤️ by Mark Tran</p>
