@@ -59,10 +59,25 @@
 ## 📈 Contribution Overview (Last 12 Months)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DUCANHTRA&theme=radical" />
-  <br/>
-  <img src="https://github-contribution-graph.ez4o.com/?username=DUCANHTRA&theme=github-dark" />
+
+  <!-- Contribution Heatmap (Simple & Reliable) -->
+  <img 
+    src="https://ghchart.rshah.org/DUCANHTRA" 
+    alt="DUCANHTRA GitHub Contribution Chart" 
+    style="max-width: 100%;"
+  />
+
+  <br/><br/>
+
+  <!-- Activity Graph (Modern & Dark Theme) -->
+  <img 
+    src="https://github-contribution-graph.ez4o.com/?username=DUCANHTRA&theme=github-dark&cache=0" 
+    alt="DUCANHTRA GitHub Contribution Activity Graph"
+    style="max-width: 100%;"
+  />
+
 </p>
+
 
 ---
 
