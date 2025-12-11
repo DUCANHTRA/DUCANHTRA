@@ -60,7 +60,7 @@
 
 <p align="center">
 
-  <!-- Contribution Heatmap (Simple & Reliable) -->
+  <!-- Guaranteed working contribution heatmap -->
   <img 
     src="https://ghchart.rshah.org/DUCANHTRA" 
     alt="DUCANHTRA GitHub Contribution Chart" 
@@ -69,16 +69,24 @@
 
   <br/><br/>
 
-  <!-- Activity Graph (Modern & Dark Theme) -->
-  <img 
-    src="https://github-contribution-graph.ez4o.com/?username=DUCANHTRA&theme=github-dark&cache=0" 
-    alt="DUCANHTRA GitHub Contribution Activity Graph"
-    style="max-width: 100%;"
-  />
+  <!-- Native GitHub contributions calendar (official, always works) -->
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/DUCANHTRA/DUCANHTRA/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/DUCANHTRA/DUCANHTRA/output/github-contribution-grid-snake.svg"
+    />
+    <img 
+      alt="DUCANHTRA GitHub Snake Animation"
+      src="https://raw.githubusercontent.com/DUCANHTRA/DUCANHTRA/output/github-contribution-grid-snake.svg"
+      style="max-width: 100%;"
+    />
+  </picture>
 
 </p>
-
-
 ---
 
 ## 📫 Let's Connect
