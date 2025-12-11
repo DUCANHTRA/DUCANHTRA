@@ -56,10 +56,19 @@
 </p>
 
 ---
+## 📈 Contribution Overview (Last 12 Months)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DUCANHTRA&theme=radical" />
+  <br/>
+  <img src="https://github-contribution-graph.ez4o.com/?username=DUCANHTRA&theme=github-dark" />
+</p>
+
+---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20Tran-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/duc-anh-tran-709b24335/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20Tran-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mark-tran-709b24335/)
 [![Gmail](https://img.shields.io/badge/Gmail-trand4832@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:trand4832@gmail.com)
 
 ---
