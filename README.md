@@ -28,8 +28,20 @@
 
 ## 📌 Projects Showcase
 
+### 🔹 [Full Stack React Movie Booking Ticket System](https://github.com/DUCANHTRA/movie_ticket)
+> A full-stack movie ticket booking application with secure authentication and admin management.
+
+- Built a full-stack booking system using **React, Express, and MongoDB** with **JWT authentication** and **bcryptjs** password hashing.
+- Developed a **responsive React UI** with **Tailwind CSS**, **Zustand** for state management, and **React Query** for data fetching.
+- Implemented a **RESTful API** with CRUD operations for movies, showtimes, bookings, and users.
+- Added an **admin dashboard with role-based access control**, seat selection, and user booking history.
+
+**Tech Stack:** React · Tailwind CSS · Zustand · React Query · Node.js · Express · MongoDB · JWT
+
+
 ### 🔹 [React Trello Clone](https://github.com/DUCANHTRA/react-trello-clone)
 > A full-featured Trello-like Kanban board built with React. Includes drag-and-drop task cards, column organization, and responsive UI for managing workflows visually.
+
 
 ### 🔹 [Flask Electronic Store](https://github.com/DUCANHTRA/flask-electronic-store)
 > A simple e-commerce backend and admin dashboard built with Flask and JSON. Features product management, user authentication, and order checkout feature
