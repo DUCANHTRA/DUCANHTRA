@@ -38,6 +38,26 @@
 
 **Tech Stack:** React · Tailwind CSS · Zustand · React Query · Node.js · Express · MongoDB · JWT
 
+### 🔹 [Vue 3 Full Stack E-commerce Platform](https://github.com/DUCANHTRA/vue-commerce)
+> A full-stack e-commerce application with secure authentication and real-time cart management.
+
+- Built a scalable **Vue 3 e-commerce platform** using **Pinia, Express, and MongoDB Atlas**, based on an Educative course.
+- Implemented **JWT authentication with RBAC (Admin/User)** and **bcrypt** password hashing.
+- Developed a **persistent shopping cart** with real-time stock validation and local storage sync via Pinia.
+- Designed a **modular REST API** with layered architecture and custom auth middleware.
+- Improved UI with a **responsive design** using **Vuetify** and **Bootstrap**, and deployed via **Netlify (frontend)** and **Vercel (backend)**.
+
+**Tech Stack:** Vue 3 · Pinia · Vuetify · Bootstrap · Node.js · Express · MongoDB Atlas · JWT
+
+### 🔹 [Job Tracker Application – JobQuest](https://github.com/DUCANHTRA/react-job-tracker)
+> A lightweight job tracking application to manage applications and monitor progress.
+
+- Built a **responsive job tracking app** using **React 19** and **Tailwind CSS**.
+- Designed a **dashboard** to view all applications, add new jobs, and track application progress.
+- Implemented **global state management** with the **React Context API** for consistent data handling.
+- Added **import/export functionality** with **persistent local storage** for data backup and restoration.
+
+**Tech Stack:** React 19 · Tailwind CSS · Context API · Local Storage
 
 ### 🔹 [React Trello Clone](https://github.com/DUCANHTRA/react-trello-clone)
 > A full-featured Trello-like Kanban board built with React. Includes drag-and-drop task cards, column organization, and responsive UI for managing workflows visually.
@@ -45,9 +65,6 @@
 
 ### 🔹 [Flask Electronic Store](https://github.com/DUCANHTRA/flask-electronic-store)
 > A simple e-commerce backend and admin dashboard built with Flask and JSON. Features product management, user authentication, and order checkout feature
-
-### 🔹 [Vue E-commerce App](https://github.com/DUCANHTRA/vue-commerce-app)
-> A modern, responsive e-commerce frontend built with Vue.js. Includes product listings, shopping cart, checkout flow, and dynamic UI components..
 
 ---
 
