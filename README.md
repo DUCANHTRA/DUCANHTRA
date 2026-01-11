@@ -38,7 +38,7 @@
 
 **Tech Stack:** React · Tailwind CSS · Zustand · React Query · Node.js · Express · MongoDB · JWT
 
-### 🔹 [Vue 3 Full Stack E-commerce Platform](https://github.com/DUCANHTRA/vue-commerce)
+### 🔹 [Vue 3 Full Stack E-commerce Platform](https://github.com/DUCANHTRA/vue-commerce-app)
 > A full-stack e-commerce application with secure authentication and real-time cart management.
 
 - Built a scalable **Vue 3 e-commerce platform** using **Pinia, Express, and MongoDB Atlas**, based on an Educative course.
@@ -58,6 +58,18 @@
 - Added **import/export functionality** with **persistent local storage** for data backup and restoration.
 
 **Tech Stack:** React 19 · Tailwind CSS · Context API · Local Storage
+
+### 🔹 [MERN Note-Taking App with AI Suggestions](https://github.com/DUCANHTRA/note-taking)
+> A full-stack note-taking application with AI-powered suggestions, secure authentication, and responsive design.
+
+- Built a **MERN stack application** (MongoDB, Express, React, Node.js) with **JWT authentication** and **bcrypt password hashing**.
+- Developed **note CRUD functionality** with **tags**, **persistent local storage**, and **real-time AI suggestions** via Google Gemini.
+- Implemented **global state management** with **Zustand**, protected routes, and robust error handling with feature-level debug logs.
+- Designed a **responsive UI** with TailwindCSS and Vite, supporting mobile and desktop devices.
+- Deployed backend and frontend with environment-based configuration and secure API integration.
+
+**Tech Stack:** React · TailwindCSS · Zustand · Node.js · Express · MongoDB · JWT · Google Gemini AI
+
 
 ### 🔹 [React Trello Clone](https://github.com/DUCANHTRA/react-trello-clone)
 > A full-featured Trello-like Kanban board built with React. Includes drag-and-drop task cards, column organization, and responsive UI for managing workflows visually.
