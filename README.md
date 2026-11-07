@@ -8,10 +8,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Student at Swinburne University | Based in Australia 🇦🇺 | Major in Software Engineer 
-- 🚀 Building full-stack systems and real-world simulations  
-- 🧠 Focused on logistics platforms, 3D graph visualization, and AI  
-- 💬 Ask me about **Node.js**, **Vue.js**, **React**  
-- 📖 Currently exploring: **ASP.NET MVC**, **Docker**, and **Flutter**
+- 🚀 Building full-stack systems and real-world projects 
+- 💬 Ask me about **PostgreSQL**, **.NET**, **React**  
+- 📖 Currently exploring: **ASP.NET MVC**, **Docker**, and **System Design**
 
 ---
 
@@ -58,25 +57,6 @@
 - Added **import/export functionality** with **persistent local storage** for data backup and restoration.
 
 **Tech Stack:** React 19 · Tailwind CSS · Context API · Local Storage
-
-### 🔹 [MERN Note-Taking App with AI Suggestions](https://github.com/DUCANHTRA/note-taking)
-> A full-stack note-taking application with AI-powered suggestions, secure authentication, and responsive design.
-
-- Built a **MERN stack application** (MongoDB, Express, React, Node.js) with **JWT authentication** and **bcrypt password hashing**.
-- Developed **note CRUD functionality** with **tags**, **persistent local storage**, and **real-time AI suggestions** via Google Gemini.
-- Implemented **global state management** with **Zustand**, protected routes, and robust error handling with feature-level debug logs.
-- Designed a **responsive UI** with TailwindCSS and Vite, supporting mobile and desktop devices.
-- Deployed backend and frontend with environment-based configuration and secure API integration.
-
-**Tech Stack:** React · TailwindCSS · Zustand · Node.js · Express · MongoDB · JWT · Google Gemini AI
-
-
-### 🔹 [React Trello Clone](https://github.com/DUCANHTRA/react-trello-clone)
-> A full-featured Trello-like Kanban board built with React. Includes drag-and-drop task cards, column organization, and responsive UI for managing workflows visually.
-
-
-### 🔹 [Flask Electronic Store](https://github.com/DUCANHTRA/flask-electronic-store)
-> A simple e-commerce backend and admin dashboard built with Flask and JSON. Features product management, user authentication, and order checkout feature
 
 ---
 
